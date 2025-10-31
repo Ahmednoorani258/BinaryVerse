@@ -1,4 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# BinaryVerse
+
+Welcome to BinaryVerse! This is a Next.js application that helps you learn how computers see the world in binary.
+
+## About
+
+BinaryVerse provides interactive and visual examples to help you understand how text, numbers, images, and sounds are represented in binary (0s and 1s).
+
+## Features
+
+*   **Interactive Learning:** Engage with visual examples to understand the conversion of different data types to binary.
+*   **Text to Binary:** See how text is converted to binary using ASCII and Unicode.
+*   **Numbers to Binary:** Learn how numbers are represented in binary format.
+*   **Images to Binary:** (Coming Soon) Understand how images are represented by pixels and binary code.
+*   **Sounds to Binary:** (Coming Soon) Explore how sound waves are digitized into binary.
+
+## Technologies Used
+
+*   [Next.js](https://nextjs.org/) - React framework for building server-rendered applications.
+*   [TypeScript](https://www.typescriptlang.org/) - Typed superset of JavaScript.
+*   [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework.
+*   [Framer Motion](https://www.framer.com/motion/) - A library for creating animations.
+*   [Chart.js](https://www.chartjs.org/) - A flexible charting library.
+*   [Lucide React](https://lucide.dev/) - A library of simply beautiful icons.
 
 ## Getting Started
 
@@ -10,15 +33,11 @@ npm run dev
 yarn dev
 # or
 pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+You can start exploring the application by navigating to the different learning sections.
 
 ## Learn More
 
@@ -26,8 +45,6 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
